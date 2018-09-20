@@ -18,7 +18,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/cw-128x71.png",
     "noImageResize": "",
     "uniqCompNum": 9,
-    "versionPublish": "4.8.1",
+    "versionPublish": "4.8.3",
     "screenshot": "screenshot.png"
   },
   "pages": {
@@ -40,9 +40,7 @@
             ".navbar-brand a": {},
             ".nav .link, .dropdown-item": {
               "font-size": "1em",
-              "color": "#000000",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-family": "'Open Sans', sans-serif"
+              "color": "#000000"
             },
             ".navbar, .dropdown-menu": {
               "background": "#ffffff"
@@ -62,14 +60,10 @@
             "transparent": false,
             "bgColor": "#ffffff",
             "fontSize": 1,
-            "fontName": {
-              "name": "Open Sans",
-              "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "css": "'Open Sans', sans-serif"
-            },
+            "fontName": {},
             "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Notable Projects</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Interactive 3D Development<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Resume</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Notable Projects</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Resume</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -100,7 +94,7 @@
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/gradient-1920x1080.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/grade-1920x1080.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#c9c9c9",
@@ -163,8 +157,8 @@
           "_params": {
             "showTitle": true,
             "showCaption": true,
-            "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingTop": 3,
+            "paddingBottom": 3,
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/hill%20country-1920x1080.png",
             "parallax": true,
@@ -179,7 +173,7 @@
             "overlayOpacity": 0.7
           },
           "title": "Leveraging the power of data and analytics to develop businesses and communities.",
-          "caption": "<p><span style=\"font-size: 1.25rem;\">My name is Christopher Walker and I work as a Data Analytics and Marketing Lead at Dunkin &amp; Associates. When I am out of the office, you may find me riding my motorcycle, woodworking, or wrangling new datasets.</span></p><p><span style=\"font-size: 1.25rem;\">In my current role, I use Tableau, Python, and SQL to gain business insights and improve marketing effiency. My day-to-day work includes researching new markets, strategizing digital marketing campaigns, manipulating data, and developing vizualizations.</span></p><p><span style=\"font-size: 1.25rem;\">My major, Urban and Regional Planning, has trained me to view economies and businesses with an analytical eye. I have taken classes in statistics, analytics, and economics which have helped prepared me for analytical work. Outside of school, I have taught myself to utilize the latest analytical tools and am always seeking to learn more.</span></p><p>I am passionate about leveraging the power of data and analytics to develop businesses and communites.</p><p><br></p>",
+          "caption": "<p><span style=\"font-size: 1.25rem;\">My name is Christopher Walker and I work as a Data Analytics and Marketing Lead at Dunkin &amp; Associates. When I am out of the office, you may find me riding my motorcycle, woodworking, or wrangling new datasets.</span><br></p><p><span style=\"font-size: 1.25rem;\">In my current role, I use Tableau, Python, and SQL to gain business insights and improve marketing effiency. My day-to-day work includes researching new markets, strategizing digital marketing campaigns, manipulating data, and developing vizualizations.&nbsp;</span><br></p><p><span style=\"font-size: 1.25rem;\">My major, Urban and Regional Planning, has trained me to view economies and businesses with an analytical eye. I have taken classes in statistics, analytics, and economics which have helped prepared me for analytical work. Outside of school, I have taught myself to utilize the latest analytical tools and am always seeking to learn more.&nbsp;</span><br></p><p>\n<span style=\"font-size: 1.25rem;\">I am passionate about leveraging the power of data and analytics to develop businesses and communites.</span></p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
