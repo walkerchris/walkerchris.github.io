@@ -17,7 +17,7 @@
     "siteFonts": [],
     "favicon": "@PROJECT_PATH@/assets/images/cw-favicon-128x128.png",
     "noImageResize": "",
-    "uniqCompNum": 22,
+    "uniqCompNum": 26,
     "versionPublish": "4.8.3",
     "screenshot": "screenshot.png"
   },
@@ -71,8 +71,9 @@
               "class": "",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": ""
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp;</a>",
@@ -305,8 +306,9 @@
               "class": "",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": ""
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp;</a>",
@@ -317,14 +319,52 @@
           "_anchor": "dropdown-menu-9"
         },
         {
-          "_inherit": "msg-box5",
           "_params": {
             "showTitle": true,
+            "showCaption": true,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.7
+          },
+          "title": "Interactive 3D Planning (2017-2018)",
+          "caption": "<p><span style=\"font-size: 1.25rem;\">Due to a rise in online shopping, malls and retailers across the United States are set to decline in the coming years. As a result, mixed-use developments are being constructed in their place. These developments often include housing, resturants, entertainment, and more.</span><br></p><p><span style=\"font-size: 1.25rem;\"></span></p><p>Built in 1980, Collin Creek Mall in Plano, Texas is a prime example of a slowing mall in desperate need of redevelopment. I designed a theoretical redevelopment of the mall in 3D space so people could visualize the plan. </p><p>What began as a class project became&nbsp;</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-o",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            "P": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          }
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": false,
             "showMeta": false,
             "showText": true,
             "showButtons": false,
             "inverse": true,
-            "imageSize": "29",
+            "imageSize": 50,
             "paddingTop": 0,
             "paddingBottom": 0,
             "bgImageRadio": false,
@@ -361,72 +401,8 @@
               "size": 0
             }
           },
-          "title": "Interactive 3D Planning",
-          "text": "Due to a rise in online shopping, malls and retailers across the United States &nbsp;are set to decline in the coming years. As a result, mixed-use developments are being constructed in their place. These developments often include housing, resturants, entertainment, and more.",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">More</a>",
-          "_name": "msg-box4",
-          "_anchor": "msg-box4-k",
-          "_styles": {
-            ".lead P": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
-            },
-            ".mbr-section-title": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-size": "46px"
-            }
-          }
-        },
-        {
-          "_inherit": "msg-box5",
-          "_params": {
-            "showTitle": false,
-            "showMeta": false,
-            "showText": true,
-            "showButtons": false,
-            "inverse": false,
-            "imageSize": "25",
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/photo-4.jpg"
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "",
-          "text": "Built in 1980, Collin Creek Mall in Plano, Texas is a prime example of a slowing mall in desperate need of redevelopment. I wanted to design a redevelopment in 3D space so people could visualize the proposed development on any device.",
+          "title": "Drag &amp; Drop Website Builder",
+          "text": "This 3D rendering is one of many designs I completed for this project. I presented this design at the 2018 National Planning Conference in New Orleans, LA.",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -434,9 +410,9 @@
           "meta": "By John Smith posted July 30, 2015",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">More</a>",
           "_name": "msg-box4",
-          "_anchor": "msg-box4-l",
+          "_anchor": "msg-box4-p",
           "_styles": {
-            ".mbr-section-title": {
+            ".lead": {
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             }
