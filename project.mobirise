@@ -63,7 +63,7 @@
             "fontName": {},
             "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Notable Projects</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Estimated Success Index (ESI)<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Home Value Forecasting<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Interactve 3D Planning<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">My Financial<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Resume</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\" aria-expanded=\"true\">Notable Projects</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Resume</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -94,7 +94,7 @@
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/grade-1920x1080.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/gradient-1920x1080.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#c9c9c9",
@@ -173,7 +173,7 @@
             "overlayOpacity": 0.7
           },
           "title": "Leveraging the power of data and analytics to develop businesses and communities.",
-          "caption": "<p><span style=\"font-size: 1.25rem;\">My name is Christopher Walker and I am the Data Analytics and Marketing Lead at My Financial in College Station, Texas. When I am out of the office, you may find me riding my motorcycle, woodworking, or wrangling new datasets.</span><br></p><p><span style=\"font-size: 1.25rem;\">I am currently a Data Analytics and Marketing Lead at My Financial and a student at Texas A&amp;M University. In my role at My Financial, I lead market research, web development, and internal workflow initiatives.&nbsp;</span><br></p><p><span style=\"font-size: 1.25rem;\">My major, Urban and Regional Planning, has trained me to view economies and businesses with an analytical eye. I have taken classes in statistics, analytics, and economics which have helped prepared me for analytical work. Outside of school, I have taken courses and tauught myself to utilize the latest tools and am always seeking to learn more.&nbsp;</span><br></p><p>\n<span style=\"font-size: 1.25rem;\">I am passionate about leveraging the power of data and analytics to develop businesses and communites.</span></p>",
+          "caption": "<p><span style=\"font-size: 1.25rem;\">My name is Christopher Walker and I am the Data Analytics and Marketing Lead at My Financial in College Station, Texas. When I am out of the office, you may find me riding my motorcycle, woodworking, or wrangling new datasets.</span><br></p><p><span style=\"font-size: 1.25rem;\">In my role at My Financial, I lead market research, content, web development, and internal workflow initiatives. I also prepare interactive reports from financial and maketing data.</span><br></p><p><span style=\"font-size: 1.25rem;\">My major, Urban and Regional Planning, has trained me to view economies and businesses with an analytical eye. I have taken classes in statistics, analytics, and economics which have helped prepared me for data-driven work. Outside of school, I have taken courses and taught myself to utilize the latest tools and am always seeking to learn more.&nbsp;</span><br></p><p>\n<span style=\"font-size: 1.25rem;\">I am passionate about leveraging the power of data and analytics to develop businesses and communites.</span></p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -211,16 +211,16 @@
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Me</a>",
           "text1": "<strong>Contact Me</strong><br>\nEmail: texasus@tamu.edu<br>\nPhone: (972) 741-9960<br><a href=\"https://www.linkedin.com/in/chrisjameswalker/\" target=\"_blank\">Linkedin</a>",
-          "text2": "<strong>Links</strong><ul><li><a href=\"#top\">Home</a></li><li>Notable Projects</li><li>Resume</li></ul>",
+          "text2": "<strong><a href=\"index.html\">Links</a></strong><ul><li><a href=\"index.html\">Home</a></li><li><a href=\"page1.html\">Notable Projects</a></li><li>Resume</li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "texasus@tamu.edu",
             "alerts": {
-              "success": "I will contact you as soon as I can."
+              "success": "I have recieved your email and will be in contact with you soon!"
             },
             "fields": {
               "name": {
-                "visible": false,
+                "visible": true,
                 "title": "Name",
                 "customTitle": "Name*"
               },
@@ -262,7 +262,7 @@
     },
     "page1.html": {
       "settings": {
-        "title": "Interactive 3D Planning",
+        "title": "Notable Projects",
         "order": 1
       },
       "components": [
@@ -297,7 +297,7 @@
             "fontName": {},
             "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Notable Projects</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Estimated Success Index (ESI)<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Home Value Forecasting<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Interactve 3D Planning<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">My Financial<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Resume</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\" aria-expanded=\"true\">Notable Projects</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Resume</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -378,14 +378,15 @@
             },
             ".mbr-section-title": {
               "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "46px"
             }
           }
         },
         {
           "_inherit": "msg-box5",
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showMeta": false,
             "showText": true,
             "showButtons": false,
@@ -424,7 +425,7 @@
               "size": 0
             }
           },
-          "title": "Collin Creek Mall, Plano, TX",
+          "title": "",
           "text": "Built in 1980, Collin Creek Mall in Plano, Texas is a prime example of a slowing mall in desperate need of redevelopment. I wanted to design a redevelopment in 3D space so people could visualize the proposed development on any device.",
           "alias": "purity/components",
           "_tags": [
@@ -456,7 +457,7 @@
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Me</a>",
           "text1": "<strong>Contact Me</strong><br>\nEmail: texasus@tamu.edu<br>\nPhone: (972) 741-9960<br><a href=\"https://www.linkedin.com/in/chrisjameswalker/\" target=\"_blank\">Linkedin</a>",
-          "text2": "<strong>Links</strong><ul><li><a href=\"#top\">Home</a></li><li>Notable Projects</li><li>Resume</li></ul>",
+          "text2": "<strong><a href=\"index.html\">Links</a></strong><ul><li><a href=\"index.html\">Home</a></li><li><a href=\"page1.html\">Notable Projects</a></li><li>Resume</li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "texasus@tamu.edu",
@@ -502,366 +503,6 @@
             }
           },
           "_anchor": "contacts3-a"
-        }
-      ]
-    },
-    "page2.html": {
-      "settings": {
-        "title": "My Financial",
-        "order": 3
-      },
-      "components": [
-        {
-          "_styles": {
-            ".hide-buttons [data-button]": {
-              "display": "none !important"
-            },
-            ".navbar-brand a": {},
-            ".nav .link, .dropdown-item": {
-              "font-size": "1em",
-              "color": "#000000"
-            },
-            ".navbar, .dropdown-menu": {
-              "background": "#ffffff"
-            },
-            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#f5f5f5"
-            },
-            ".navbar-toggler": {
-              "color": "#000000"
-            }
-          },
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": true,
-            "sticky": true,
-            "transparent": false,
-            "bgColor": "#ffffff",
-            "fontSize": 1,
-            "fontName": {},
-            "fontColor": "#000000"
-          },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Notable Projects</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Estimated Success Index (ESI)<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Home Value Forecasting<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Interactve 3D Planning<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">My Financial<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Resume</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/chris-walker-427x128.png",
-              "class": "",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": ""
-            }
-          },
-          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp;</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "dropdown-menu",
-          "_anchor": "dropdown-menu-b"
-        },
-        {
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#37383e",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Me</a>",
-          "text1": "<strong>Contact Me</strong><br>\nEmail: texasus@tamu.edu<br>\nPhone: (972) 741-9960<br><a href=\"https://www.linkedin.com/in/chrisjameswalker/\" target=\"_blank\">Linkedin</a>",
-          "text2": "<strong>Links</strong><ul><li><a href=\"#top\">Home</a></li><li>Notable Projects</li><li>Resume</li></ul>",
-          "form": {
-            "title": "MESSAGE",
-            "action": "texasus@tamu.edu",
-            "alerts": {
-              "success": "I will contact you as soon as I can."
-            },
-            "fields": {
-              "name": {
-                "visible": false,
-                "title": "Name",
-                "customTitle": "Name*"
-              },
-              "email": {
-                "visible": true,
-                "title": "Email",
-                "customTitle": "Your Email*"
-              },
-              "phone": {
-                "visible": false,
-                "title": "Phone",
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Your Message*"
-              }
-            }
-          },
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts3",
-          "_styles": {
-            "P": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-size": "15px"
-            },
-            "STRONG": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
-            }
-          },
-          "_anchor": "contacts3-c"
-        }
-      ]
-    },
-    "page3.html": {
-      "settings": {
-        "title": "Home Value Forecasting",
-        "order": 4
-      },
-      "components": [
-        {
-          "_styles": {
-            ".hide-buttons [data-button]": {
-              "display": "none !important"
-            },
-            ".navbar-brand a": {},
-            ".nav .link, .dropdown-item": {
-              "font-size": "1em",
-              "color": "#000000"
-            },
-            ".navbar, .dropdown-menu": {
-              "background": "#ffffff"
-            },
-            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#f5f5f5"
-            },
-            ".navbar-toggler": {
-              "color": "#000000"
-            }
-          },
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": true,
-            "sticky": true,
-            "transparent": false,
-            "bgColor": "#ffffff",
-            "fontSize": 1,
-            "fontName": {},
-            "fontColor": "#000000"
-          },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Notable Projects</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Estimated Success Index (ESI)<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Home Value Forecasting<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Interactve 3D Planning<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">My Financial<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Resume</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/chris-walker-427x128.png",
-              "class": "",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": ""
-            }
-          },
-          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp;</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "dropdown-menu",
-          "_anchor": "dropdown-menu-d"
-        },
-        {
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#37383e",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Me</a>",
-          "text1": "<strong>Contact Me</strong><br>\nEmail: texasus@tamu.edu<br>\nPhone: (972) 741-9960<br><a href=\"https://www.linkedin.com/in/chrisjameswalker/\" target=\"_blank\">Linkedin</a>",
-          "text2": "<strong>Links</strong><ul><li><a href=\"#top\">Home</a></li><li>Notable Projects</li><li>Resume</li></ul>",
-          "form": {
-            "title": "MESSAGE",
-            "action": "texasus@tamu.edu",
-            "alerts": {
-              "success": "I will contact you as soon as I can."
-            },
-            "fields": {
-              "name": {
-                "visible": false,
-                "title": "Name",
-                "customTitle": "Name*"
-              },
-              "email": {
-                "visible": true,
-                "title": "Email",
-                "customTitle": "Your Email*"
-              },
-              "phone": {
-                "visible": false,
-                "title": "Phone",
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Your Message*"
-              }
-            }
-          },
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts3",
-          "_styles": {
-            "P": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-size": "15px"
-            },
-            "STRONG": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
-            }
-          },
-          "_anchor": "contacts3-e"
-        }
-      ]
-    },
-    "page4.html": {
-      "settings": {
-        "title": "Estimated Success Index (ESI)",
-        "order": 2
-      },
-      "components": [
-        {
-          "_styles": {
-            ".hide-buttons [data-button]": {
-              "display": "none !important"
-            },
-            ".navbar-brand a": {},
-            ".nav .link, .dropdown-item": {
-              "font-size": "1em",
-              "color": "#000000"
-            },
-            ".navbar, .dropdown-menu": {
-              "background": "#ffffff"
-            },
-            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#f5f5f5"
-            },
-            ".navbar-toggler": {
-              "color": "#000000"
-            }
-          },
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": true,
-            "sticky": true,
-            "transparent": false,
-            "bgColor": "#ffffff",
-            "fontSize": 1,
-            "fontName": {},
-            "fontColor": "#000000"
-          },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Notable Projects</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Estimated Success Index (ESI)<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Home Value Forecasting<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Interactve 3D Planning<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">My Financial<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Resume</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/chris-walker-427x128.png",
-              "class": "",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": ""
-            }
-          },
-          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp;</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "dropdown-menu",
-          "_anchor": "dropdown-menu-f"
-        },
-        {
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#37383e",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Me</a>",
-          "text1": "<strong>Contact Me</strong><br>\nEmail: texasus@tamu.edu<br>\nPhone: (972) 741-9960<br><a href=\"https://www.linkedin.com/in/chrisjameswalker/\" target=\"_blank\">Linkedin</a>",
-          "text2": "<strong>Links</strong><ul><li><a href=\"#top\">Home</a></li><li>Notable Projects</li><li>Resume</li></ul>",
-          "form": {
-            "title": "MESSAGE",
-            "action": "texasus@tamu.edu",
-            "alerts": {
-              "success": "I will contact you as soon as I can."
-            },
-            "fields": {
-              "name": {
-                "visible": false,
-                "title": "Name",
-                "customTitle": "Name*"
-              },
-              "email": {
-                "visible": true,
-                "title": "Email",
-                "customTitle": "Your Email*"
-              },
-              "phone": {
-                "visible": false,
-                "title": "Phone",
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Your Message*"
-              }
-            }
-          },
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts3",
-          "_styles": {
-            "P": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-size": "15px"
-            },
-            "STRONG": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
-            }
-          },
-          "_anchor": "contacts3-g"
         }
       ]
     }
