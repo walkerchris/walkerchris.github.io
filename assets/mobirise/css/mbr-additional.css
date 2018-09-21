@@ -58,6 +58,7 @@
 
 
 
+
 #dropdown-menu-9 .hide-buttons [data-button] {
   display: none !important;
 }
@@ -82,6 +83,9 @@
   font-family: 'Open Sans', sans-serif;
 }
 #msg-box4-k .mbr-section-title {
+  font-family: 'Open Sans', sans-serif;
+}
+#msg-box4-l .mbr-section-title {
   font-family: 'Open Sans', sans-serif;
 }
 #contacts3-a P {
