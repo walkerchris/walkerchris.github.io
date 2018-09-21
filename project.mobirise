@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Chris Walker",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -17,7 +17,7 @@
     "siteFonts": [],
     "favicon": "@PROJECT_PATH@/assets/images/cw-favicon-128x128.png",
     "noImageResize": "",
-    "uniqCompNum": 17,
+    "uniqCompNum": 21,
     "versionPublish": "4.8.3",
     "screenshot": "screenshot.png"
   },
@@ -63,7 +63,7 @@
             "fontName": {},
             "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Notable Projects</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Estimated Success Index (ESI)<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Home Value Forecasting<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Interactve 3D Planning<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">My Financial<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Resume</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Notable Projects</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Estimated Success Index (ESI)<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Home Value Forecasting<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Interactve 3D Planning<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">My Financial<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Resume</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -173,7 +173,7 @@
             "overlayOpacity": 0.7
           },
           "title": "Leveraging the power of data and analytics to develop businesses and communities.",
-          "caption": "<p><span style=\"font-size: 1.25rem;\">My name is Christopher Walker and I work as a Data Analytics and Marketing Lead at Dunkin &amp; Associates. When I am out of the office, you may find me riding my motorcycle, woodworking, or wrangling new datasets.</span><br></p><p><span style=\"font-size: 1.25rem;\">In my current role, I use Tableau, keyword research, and Python to gain marketing insights and improve marketing effiency. My day-to-day work includes leading content marketing and web development initiatives, manipulating data, and developing data vizualizations.&nbsp;</span><br></p><p><span style=\"font-size: 1.25rem;\">My major, Urban and Regional Planning, has trained me to view economies and businesses with an analytical eye. I have taken classes in statistics, analytics, and economics which have helped prepared me for analytical work. Outside of school, I have taken courses and tauught myself to utilize the latest tools and am always seeking to learn more.&nbsp;</span><br></p><p>\n<span style=\"font-size: 1.25rem;\">I am passionate about leveraging the power of data and analytics to develop businesses and communites.</span></p>",
+          "caption": "<p><span style=\"font-size: 1.25rem;\">My name is Christopher Walker and I am the Data Analytics and Marketing Lead at My Financial in College Station, Texas. When I am out of the office, you may find me riding my motorcycle, woodworking, or wrangling new datasets.</span><br></p><p><span style=\"font-size: 1.25rem;\">I am currently a Data Analytics and Marketing Lead at My Financial and a student at Texas A&amp;M University. In my role at My Financial, I lead market research, web development, and internal workflow initiatives.&nbsp;</span><br></p><p><span style=\"font-size: 1.25rem;\">My major, Urban and Regional Planning, has trained me to view economies and businesses with an analytical eye. I have taken classes in statistics, analytics, and economics which have helped prepared me for analytical work. Outside of school, I have taken courses and tauught myself to utilize the latest tools and am always seeking to learn more.&nbsp;</span><br></p><p>\n<span style=\"font-size: 1.25rem;\">I am passionate about leveraging the power of data and analytics to develop businesses and communites.</span></p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -263,7 +263,7 @@
     "page1.html": {
       "settings": {
         "title": "Interactive 3D Planning",
-        "order": 3
+        "order": 1
       },
       "components": [
         {
@@ -297,7 +297,7 @@
             "fontName": {},
             "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Notable Projects</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Estimated Success Index (ESI)<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Home Value Forecasting<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Interactve 3D Planning<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">My Financial<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Resume</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Notable Projects</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Estimated Success Index (ESI)<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Home Value Forecasting<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Interactve 3D Planning<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">My Financial<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Resume</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -315,6 +315,72 @@
           ],
           "_name": "dropdown-menu",
           "_anchor": "dropdown-menu-9"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/urpn201.pp.mixed.use.cjw-1400x1050.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "The Disconnect.",
+          "text": "<p>C</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">More</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-k",
+          "_styles": {
+            ".lead P": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          }
         },
         {
           "_params": {
@@ -383,7 +449,7 @@
     "page2.html": {
       "settings": {
         "title": "My Financial",
-        "order": 4
+        "order": 3
       },
       "components": [
         {
@@ -417,7 +483,7 @@
             "fontName": {},
             "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Notable Projects</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Estimated Success Index (ESI)<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Home Value Forecasting<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Interactve 3D Planning<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">My Financial<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Resume</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Notable Projects</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Estimated Success Index (ESI)<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Home Value Forecasting<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Interactve 3D Planning<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">My Financial<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Resume</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -503,7 +569,7 @@
     "page3.html": {
       "settings": {
         "title": "Home Value Forecasting",
-        "order": 2
+        "order": 4
       },
       "components": [
         {
@@ -537,7 +603,7 @@
             "fontName": {},
             "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Notable Projects</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Estimated Success Index (ESI)<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Home Value Forecasting<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Interactve 3D Planning<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">My Financial<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Resume</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Notable Projects</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Estimated Success Index (ESI)<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Home Value Forecasting<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Interactve 3D Planning<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">My Financial<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Resume</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -623,7 +689,7 @@
     "page4.html": {
       "settings": {
         "title": "Estimated Success Index (ESI)",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -657,7 +723,7 @@
             "fontName": {},
             "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Notable Projects</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Estimated Success Index (ESI)<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Home Value Forecasting<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Interactve 3D Planning<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">My Financial<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Resume</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Notable Projects</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Estimated Success Index (ESI)<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Home Value Forecasting<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Interactve 3D Planning<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">My Financial<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Resume</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
           "logo": {
             "image": {
               "active": true,

@@ -56,6 +56,8 @@
 }
 
 
+
+
 #dropdown-menu-9 .hide-buttons [data-button] {
   display: none !important;
 }
@@ -75,6 +77,12 @@
 }
 #dropdown-menu-9 .navbar-toggler {
   color: #000000;
+}
+#msg-box4-k .lead P {
+  font-family: 'Open Sans', sans-serif;
+}
+#msg-box4-k .mbr-section-title {
+  font-family: 'Open Sans', sans-serif;
 }
 #contacts3-a P {
   font-family: 'Open Sans', sans-serif;
